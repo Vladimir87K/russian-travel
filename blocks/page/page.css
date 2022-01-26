@@ -1,0 +1,11 @@
+.page {
+  min-width: 1280px;
+  margin: 0;
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  color: #FFFFFF;
+  background-color: #454545;
+  padding: 46px 48px 24px;
+  box-sizing: border-box;
+}

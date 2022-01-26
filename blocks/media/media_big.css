@@ -1,0 +1,43 @@
+@media screen and (max-width: 1279px) {
+  .page {
+    min-width: 1024px;
+  }
+
+  .lead {
+    margin: 54px 0 0;
+  }
+
+  .lead__subtitle {
+    margin: 32px auto 56px;
+  }
+
+  .intro {
+    margin-left: 0;
+  }
+
+  .foto-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: repeat(4, 1fr);
+    grid-gap: 14px;
+  }
+
+  .places {
+    margin: 92px 0;
+  }
+
+  .place {
+    grid-gap: 48px 32px;
+  }
+
+  .cover {
+    width: 100vw;
+  }
+
+  .cover__title {
+    top: 30%;
+  }
+
+  .cover__subtitle {
+    top: 59%;
+  }
+}

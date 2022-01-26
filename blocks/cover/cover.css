@@ -1,11 +1,5 @@
 .cover {
   width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
   position: relative;
 }
 
-.cover:hover .cover__overlay {
-  opacity: .3;
-}

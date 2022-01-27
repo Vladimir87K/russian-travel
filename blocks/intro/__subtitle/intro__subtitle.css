@@ -4,3 +4,15 @@
   line-height: 163%;
   margin: 40px 0 33px;
 }
+
+@media screen and (max-width: 1023px) {
+  .intro__subtitle {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .intro__subtitle {
+    margin-bottom: 34px;
+  }
+}

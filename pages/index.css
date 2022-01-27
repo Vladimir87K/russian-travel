@@ -1,4 +1,4 @@
-@import url(../blocks/font-face/font-face.css);
+@import url(../blocks/vendor/fonts/fonts.css);
 @import url(../style/normalize.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
@@ -34,6 +34,3 @@
 @import url(../blocks/footer/__navigation/footer__navigation.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-@import url(../blocks/media/media_big.css);
-@import url(../blocks/media/media_smoll.css);
-@import url(../blocks/media/media_little.css);

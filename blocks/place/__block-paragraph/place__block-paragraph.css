@@ -1,3 +1,10 @@
 .place__block-paragraph {
   margin: 0;
 }
+
+@media screen and (max-width: 767px) {
+  .place__block-paragraph {
+    width: calc(100% - 32px);
+    margin-left: 16px;
+  }
+}

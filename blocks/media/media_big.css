@@ -32,12 +32,4 @@
   .cover {
     width: 100vw;
   }
-
-  .cover__title {
-    top: 30%;
-  }
-
-  .cover__subtitle {
-    top: 59%;
-  }
 }

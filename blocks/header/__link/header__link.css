@@ -5,9 +5,6 @@
   text-decoration-line: underline;
   color: #FFFFFF;
   margin-left: 18px;
-}
-
-.header__link:last-child {
   text-decoration: none;
 }
 

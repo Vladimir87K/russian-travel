@@ -1,6 +1,5 @@
 .header {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
   align-items: flex-end;
-  position: relative;
 }

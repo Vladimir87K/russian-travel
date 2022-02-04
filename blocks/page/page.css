@@ -1,12 +1,12 @@
 .page {
-  min-width: 1280px;
-  margin: 0;
+  max-width: 1280px;
+  margin: 0 auto;
   font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
   color: #FFFFFF;
-  background-color: #454545;
-  padding: 46px 48px 24px;
+  background-color: #2A2C2F;
+  padding: 28px 48px 24px;
   box-sizing: border-box;
 }
 
@@ -19,13 +19,13 @@
 @media screen and (max-width: 1023px) {
   .page {
     min-width: 768px;
-    padding: 46px 24px 24px;
+    padding: 28px 24px 24px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .page {
     min-width: 320px;
-    padding: 30px 16px 24px;
+    padding: 16px 16px 24px;
   }
 }
